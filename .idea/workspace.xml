@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56e89a5f-b5ea-4d35-bcd0-fb19d758b95a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go_blogs/go_blogs.go" beforeDir="false" afterPath="$PROJECT_DIR$/go_blogs/go_blogs.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +34,9 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gameservers" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Test.TestIPAddress in godeepdive/go_blogs/ip_address">
     <configuration name="go build godeepdive" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-deep-dive" />
       <working_directory value="$PROJECT_DIR$" />
@@ -48,8 +46,20 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestIPAddress in godeepdive/go_blogs/ip_address" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-deep-dive" />
+      <working_directory value="$PROJECT_DIR$/go_blogs/ip_address" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="godeepdive/go_blogs/ip_address" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestIPAddress\E$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestIPAddress in godeepdive/go_blogs/ip_address" />
         <item itemvalue="Go Build.go build godeepdive" />
       </list>
     </recent_temporary>
@@ -79,10 +89,27 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="847" y="379" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605524816612" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603983078817">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="686" y="211" key="FileChooserDialogImpl" timestamp="1605583418077">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603983078817" />
+    <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605583418077" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605595746301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605595746301" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605595746300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605595746300" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605595746299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605595746299" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605595746301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605595746301" />
     <state x="581" y="49" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603983444199">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
