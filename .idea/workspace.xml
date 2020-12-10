@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56e89a5f-b5ea-4d35-bcd0-fb19d758b95a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GoConcurrentProgrammingLessons/07Cond/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="56e89a5f-b5ea-4d35-bcd0-fb19d758b95a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +49,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <environment>
@@ -73,15 +74,19 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607508621474" />
-    <state x="847" y="379" key="EnvironmentVariablesDialog" timestamp="1605524816612">
+    <state x="558" y="86" key="CommitChangelistDialog2" timestamp="1607582464144">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="847" y="379" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605524816612" />
-    <state x="686" y="211" key="FileChooserDialogImpl" timestamp="1607523898697">
+    <state x="558" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607582464144" />
+    <state x="847" y="379" key="EnvironmentVariablesDialog" timestamp="1607582534600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="847" y="379" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607582534600" />
+    <state x="686" y="211" key="FileChooserDialogImpl" timestamp="1607582558772">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603983078817" />
-    <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607523898697" />
+    <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607582558772" />
     <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1607576341300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -114,6 +119,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="278" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607576341305" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1607582466071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607582466071" />
     <state x="581" y="49" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603983444199">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
