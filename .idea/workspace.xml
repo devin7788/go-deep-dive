@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56e89a5f-b5ea-4d35-bcd0-fb19d758b95a" name="Default Changelist" comment="" />
+    <list default="true" id="56e89a5f-b5ea-4d35-bcd0-fb19d758b95a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GoConcurrentProgrammingLessons/Context_11/context_11.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoConcurrentProgrammingLessons/c08_Once/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoConcurrentProgrammingLessons/07Cond/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoConcurrentProgrammingLessons/c07_Cond/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go_gpm/go_gpm.go" beforeDir="false" afterPath="$PROJECT_DIR$/go_gpm/go_gpm.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Go File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
@@ -19,6 +26,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jYXhcH9nvrM2gIKURRwbarnPxN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,15 +36,16 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Work/Server/code/server/list_server" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build godeepdive/GoConcurrentProgrammingLessons/Context_11">
     <configuration name="cond" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="go-deep-dive" />
       <working_directory value="$PROJECT_DIR$" />
@@ -44,6 +55,30 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build godeepdive/GoConcurrentProgrammingLessons/Context_11" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-deep-dive" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/GoConcurrentProgrammingLessons/Context_11/context_11.go" />
+      <package value="godeepdive/GoConcurrentProgrammingLessons/Context_11" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build godeepdive/GoConcurrentProgrammingLessons/c08_Once" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-deep-dive" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/GoConcurrentProgrammingLessons/c08_Once/main.go" />
+      <package value="godeepdive/GoConcurrentProgrammingLessons/c08_Once" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build godeepdive/GoConcurrentProgrammingLessons/Context_11" />
+        <item itemvalue="Go Build.go build godeepdive/GoConcurrentProgrammingLessons/c08_Once" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,76 +95,5 @@
         <entry key="GOPROXY" value="https://goproxy.io" />
       </map>
     </environment>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="560" y="343" key="#GOROOT" timestamp="1603982124526">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="560" y="343" key="#GOROOT/0.0.1536.824@0.0.1536.824" timestamp="1603982124526" />
-    <state x="752" y="353" key="#Go_Modules" timestamp="1605524817224">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="752" y="353" key="#Go_Modules/0.0.1920.1040@0.0.1920.1040" timestamp="1605524817224" />
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607508621474">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607508621474" />
-    <state x="558" y="86" key="CommitChangelistDialog2" timestamp="1607582464144">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="558" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607582464144" />
-    <state x="847" y="379" key="EnvironmentVariablesDialog" timestamp="1607582534600">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="847" y="379" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607582534600" />
-    <state x="686" y="211" key="FileChooserDialogImpl" timestamp="1607582558772">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603983078817" />
-    <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607582558772" />
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1607576341300">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607576341300" />
-    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1607576341295">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607576341295" />
-    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1607576341293">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607576341293" />
-    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1607576341297">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607576341297" />
-    <state width="1877" height="278" key="GridCell.Tab.1.bottom" timestamp="1607576341306">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="278" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607576341306" />
-    <state width="1877" height="278" key="GridCell.Tab.1.center" timestamp="1607576341303">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="278" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607576341303" />
-    <state width="1877" height="278" key="GridCell.Tab.1.left" timestamp="1607576341301">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="278" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607576341301" />
-    <state width="1877" height="278" key="GridCell.Tab.1.right" timestamp="1607576341305">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="278" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607576341305" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1607582466071">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607582466071" />
-    <state x="581" y="49" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603983444199">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="581" y="49" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1603983444199" />
-    <state x="468" y="144" width="600" height="536" key="find.popup" timestamp="1603983410613">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="468" y="144" width="600" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1603983410613" />
   </component>
 </project>
